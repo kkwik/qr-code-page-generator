@@ -1,0 +1,14 @@
+MyCPP,https://my.cpp.edu
+BroncoDirect,https://my.cpp.edu/uPortal/p/broncodirect
+Canvas,https://canvas.cpp.edu
+Campus Map,https://www.cpp.edu/maps/
+Setup WiFi,https://www.cpp.edu/it/wifi/
+IT Status,https://www.cpp.edu/it/service-status.shtml
+Class Schedule,https://schedule.cpp.edu
+IDM,https://apps.cpp.edu/idm
+Bronco411,https://apps.cpp.edu/bronco411/search/
+Housing,https://cpp.starrezhousing.com/StarRezPortal/Login
+Handshake,https://cpp.joinhandshake.com/login
+Academic Calendar,https://www.cpp.edu/academicplanning/academic-calendar/documents/2022-2023_academic_calendar_2022-12-6.pdf
+Dining Hours,https://www.foundation.cpp.edu/dining/hours.aspx
+BroncoShuttle,https://cpp.service-now.com/broncoshuttle
