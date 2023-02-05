@@ -12,3 +12,4 @@ Handshake,https://cpp.joinhandshake.com/login
 Academic Calendar,https://www.cpp.edu/academicplanning/academic-calendar/documents/2022-2023_academic_calendar_2022-12-6.pdf
 Dining Hours,https://www.foundation.cpp.edu/dining/hours.aspx
 BroncoShuttle,https://cpp.service-now.com/broncoshuttle
+BRIC Hours,https://asi.cpp.edu/campusrec/facilities/general-information/hours/
